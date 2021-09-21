@@ -1,9 +1,10 @@
 # Table of contents
 
-* [SA Truck Simulator](README.md)
+* [Truck Simulator](README.md)
 
 ## Справочник
 
+* [Установка](spravochnik/ustanovka.md)
 * [Быстрый старт](spravochnik/quick-start.md)
 * [Автотранспорт](spravochnik/vehicles/README.md)
   * [Модели автомобилей](spravochnik/vehicles/modeli-avtomobilei.md)
