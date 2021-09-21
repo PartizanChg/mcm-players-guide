@@ -1,2 +1,2 @@
-# Sanandreas Truck Simulator
+# SA Truck Simulator
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sanandreas Truck Simulator](README.md)
+* [SA Truck Simulator](README.md)
 
 ## Справочник
 
