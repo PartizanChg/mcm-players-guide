@@ -11,11 +11,12 @@
   * [Модели автомобилей](spravochnik/vehicles/modeli-avtomobilei.md)
   * [Управление](spravochnik/vehicles/upravlenie.md)
   * [Приборная панель](spravochnik/vehicles/pribornaya-panel.md)
+  * [Автосалоны](spravochnik/vehicles/avtosalony.md)
 * [Грузоперевозки](spravochnik/gruzoperevozki.md)
 * [Дома](spravochnik/houses.md)
 * [Бизнесы](spravochnik/businesses.md)
 
-## О проекте
+## Ссылки <a id="o-proekte"></a>
 
 * [VK](https://vk.com/moneycity)
 * [Discord](https://discord.gg/g6JvbskY)
