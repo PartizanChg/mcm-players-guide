@@ -1,10 +1,10 @@
 ---
-description: 'From Creator of Money City Mod | IV:MP (2010-2015)'
+description: MCM 2 Alpha
 ---
 
 # Truck Simulator
 
-**Truck Simulator** это игровая многопользовательская модификация на основе [Rage Multiplayer](https://rage.mp/). Команда разработчиков мода никак не связана с создателями Rage Multiplayer и ведется энтузиастами фанатами вселенной GTA.
+**Truck Simulator** это игровая многопользовательская модификация \(мод\) на основе [Rage Multiplayer](https://rage.mp/) для GTA V.
 
 {% embed url="https://youtu.be/HX8DPMWaODs" %}
 
