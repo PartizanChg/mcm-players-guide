@@ -1,11 +1,10 @@
 # Table of contents
 
 * [Truck Simulator](README.md)
-* [Что нового?](chto-novogo.md)
+* [Установка](ustanovka.md)
 
 ## Справочник
 
-* [Установка](spravochnik/ustanovka.md)
 * [Быстрый старт](spravochnik/quick-start.md)
 * [Автотранспорт](spravochnik/vehicles/README.md)
   * [Модели автомобилей](spravochnik/vehicles/modeli-avtomobilei.md)
