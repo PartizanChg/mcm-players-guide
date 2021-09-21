@@ -2,7 +2,9 @@
 
 ## Getting Super Powers
 
-[https://youtu.be/HX8DPMWaODs](https://youtu.be/HX8DPMWaODs)
+{% embed url="https://youtu.be/HX8DPMWaODs" %}
+
+
 
 
 
