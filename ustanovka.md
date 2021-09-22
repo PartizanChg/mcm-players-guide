@@ -13,6 +13,8 @@
 
 После установки и запуска Rage Multiplayer выберите ---- 
 
+
+
 #### Поддержка
 
 Команда Truck Simulator не связана с создателями Rage Multiplayer, поэтому в случае проблем с запуском вы можете обращаться в официальный [Discord](https://discord.gg/A5exBRX) или [Forums](https://rage.mp/forums/forum/5-support/) проекта Rage Multiplayer.  
