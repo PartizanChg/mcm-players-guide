@@ -2,11 +2,10 @@
 
 * [Truck Simulator](README.md)
 * [Установка](ustanovka.md)
-* [Untitled](untitled.md)
+* [Быстрый старт](quick-start.md)
 
 ## Справочник
 
-* [Быстрый старт](spravochnik/quick-start.md)
 * [Персонажи](spravochnik/characters.md)
 * [Автотранспорт](spravochnik/vehicles/README.md)
   * [Модели автомобилей](spravochnik/vehicles/modeli-avtomobilei.md)
